@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="450" viewBox="0 0 600 450">
+  <rect width="600" height="450" fill="#0f172a"/>
+  <rect x="30" y="30" width="540" height="390" fill="none" stroke="#22c55e" stroke-opacity="0.3" stroke-width="2" rx="12"/>
+  <rect x="240" y="140" width="120" height="90" fill="#22c55e" fill-opacity="0.15" rx="8"/>
+  <circle cx="270" cy="165" r="10" fill="#22c55e" fill-opacity="0.6"/>
+  <path d="M248 215 L285 178 L315 205 L335 188 L352 215 Z" fill="#22c55e" fill-opacity="0.5"/>
+  <text x="300" y="290" text-anchor="middle" font-family="Arial, sans-serif" font-size="26" font-weight="bold" fill="#ffffff">Grand Opening 2025</text>
+  <text x="300" y="330" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" fill="#22c55e">DOKUMENTASI - GYMFLEX</text>
+</svg>
